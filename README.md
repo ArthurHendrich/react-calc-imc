@@ -11,8 +11,9 @@ Projeto em React + Typescript fazendo uma calculadora de IMC.
 - Projeto desnvolvido durante o curso [B7WEB](https>//b7web.com.br)
 - Utilizando React Vite
   <br>
+<br>
 
-### Instalação
+## Instalação
 
 - `npm install`
 
